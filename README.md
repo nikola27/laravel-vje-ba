@@ -1,1 +1,1 @@
-# laravel-vje-ba
+Primjer vježbe izrade web aplikacije pomoću Laravela.
